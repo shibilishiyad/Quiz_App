@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527986033165",
+    "project_id": "hacaquizapp",
+    "storage_bucket": "hacaquizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527986033165:android:85d7e1f4399a66937c8b44",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8zNP9rBejO92CJ3EYeBbDXeUT8PTeWpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
